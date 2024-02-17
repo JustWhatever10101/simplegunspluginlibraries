@@ -1,6 +1,4 @@
-/*
-    This code is to see what function do. This will not be added to your project when compiled
- */
+
 export class Player {
     constructor(data) {
         this.uid = data.uid
